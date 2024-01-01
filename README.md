@@ -1,4 +1,5 @@
 # Converting PDFs to Images Streamlit Application
+![Capture d'écran 2024-01-01 140800](https://github.com/mohamedhajja/pdfs-to-images/assets/106828911/54af513e-5a66-4f74-8899-05a035519ffc)
 
 ## Overview
 
